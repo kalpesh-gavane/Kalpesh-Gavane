@@ -1,6 +1,6 @@
 
 - 👋 Hi i’am @kalpesh-gavane
-- 💻 I’m currently working with Laravel ,Wordpress.
+- 💻 I’m currently working with Laravel,Vue.js,Wordpress.
 
 
 
